@@ -68,6 +68,9 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 ### O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
 
 > <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-4.svg">
+>
+> <br />
+>
 > <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-4_2.svg">
 >
 
