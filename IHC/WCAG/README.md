@@ -28,7 +28,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 > <img heigh="800px" width="800px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-1.svg">
 >
-> A imagem mostra como o 
+> A imagem mostra como as informações dos componentes da página estão muito bem perceptíveis e faceis de serem lidos com qualquer tipo de acessibilidade, links muito bem definidos e sublinhados, inputs muito bem descritos, com isso usuários com algum tipo de deficiência visual poderia muito bem acessar nossa pagina sem dificuldade alguma.
 </div>
 
 ---
@@ -41,7 +41,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 > <img heigh="800px" width="800px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-2.svg">
 >
->
+> A imagem mostra algumas opções para poder mudar o site com base nas dificuldade ou deficiência do usuário, trazendo assim uma melhor experiencia para o mesmo
 
 </div>
 
@@ -55,7 +55,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 > <img heigh="800px" width="800px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-3.svg">
 >
->
+> A imagem mostra uma tela de acompanhamento de chamados aonde vemos que é muito facil saber a prioridade e andamento descritos com imagens visualmente faceis de serem entendidas, seguindo assim a questão das cores (Vermelho = alto | Verde = baixo | Amarelo = médio) e imagens de começo, meio e fim do andamento.
 
 </div>
 
@@ -73,6 +73,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 >
 > <img heigh="800px" width="800px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-4_2.svg">
 >
+> A imagem mostra como a página pode ser facilmente adaptavél com base no tamanho da tela.
 
 </div>
 
