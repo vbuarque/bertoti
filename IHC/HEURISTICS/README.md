@@ -28,6 +28,9 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 1: Visibility of system status
 
+> <img heigh="400px" width="400px" src ="">
+>
+> Status do sistema exemplificado na AppStore do Google, a imagem mostra como é facil visualizar o download do aplicativo e como a primeira heuristica é muito bem aplicada.
 </div>
 
 
@@ -35,6 +38,9 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 2: Match between system and the real world
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 
@@ -42,6 +48,9 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 3: User control and freedom
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 
@@ -49,18 +58,27 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 4: Consistency and standards
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 <div id='5'>
 
 ## 5: Error prevention
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 <div id='6'>
 
 ## 6: Recognition rather than recall
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 
@@ -68,6 +86,9 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 7: Flexibility and efficiency of use
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 
@@ -75,17 +96,25 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 8: Aesthetic and minimalist design
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 <div id='9'>
 
 ## 9: Help users recognize, diagnose, and recover from errors
 
-
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
 
 <div id='10'>
 
 ## 10: Help and documentation
 
+> <img heigh="400px" width="400px" src ="">
+>
+>
 </div>
