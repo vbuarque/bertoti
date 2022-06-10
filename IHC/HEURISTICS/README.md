@@ -96,7 +96,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 8: Aesthetic and minimalist design
 
-> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/aesthetic-and-minimalist-design.svg>
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/aesthetic-and-minimalist-design.svg">
 >
 >
 </div>
