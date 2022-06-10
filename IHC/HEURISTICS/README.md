@@ -28,7 +28,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 1: Visibility of system status
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/visibilidade-do-sistema.svg">
 >
 > Status do sistema exemplificado na AppStore do Google, a imagem mostra como é facil visualizar o download do aplicativo e como a primeira heuristica é muito bem aplicada.
 </div>
@@ -38,7 +38,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 2: Match between system and the real world
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/match-between-system-and-the-real-world.svg">
 >
 >
 </div>
@@ -48,7 +48,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 3: User control and freedom
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/user-control-and-freedom.svg">
 >
 >
 </div>
