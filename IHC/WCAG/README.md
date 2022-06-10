@@ -26,9 +26,9 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 ### As informações e os componentes da interface do usuário devem ser apresentáveis ​​aos usuários de maneira que eles possam perceber.
 
-> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-1.svg">
+> <img heigh="800px" width="800px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-1.svg">
 >
->
+> A imagem mostra como o 
 </div>
 
 ---
