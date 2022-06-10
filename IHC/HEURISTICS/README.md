@@ -136,8 +136,6 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 > Ajude os usuários a reconhecer, identificar e recuperar os erros exemplificado no site O'reilly, novos usuários podem ter dificuldades em entender como o sistema funciona por isso o site do o'reilly faz uma "Apresentação" passo-a-passo mostrando oque cada opção do site pode fazer, assim facilitando o entendimento do sistema para novos usuários
 </div>
 
----
-
 ↪️ [Inicio](#top)
 
 ---
