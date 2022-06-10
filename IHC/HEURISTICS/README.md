@@ -140,6 +140,10 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ↪️ [Inicio](#top)
 
-<footer>
+---
+
+<footer align='center'>
     <p>Criado por Vinicius Buarque</p>
 </footer>
+
+---
