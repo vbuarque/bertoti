@@ -40,7 +40,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 > <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/match-between-system-and-the-real-world.svg">
 >
->
+> Correspondência entre o sistema e o mundo real exemplificado no aplicativo da KaBuM, a imagem mostra como os icones se parecem com objetos da vida real facilitando o entendimento do usuário em certas ações no sistema
 </div>
 
 
@@ -50,7 +50,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 > <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/user-control-and-freedom.svg">
 >
->
+> Controle e liberdade do usuário exemplificado na AppStore do Google, a imagem mostra como o usuário tem a liberdade de pode realizar o download, cancelar o download e desinstalar o aplicativo, sendo assim uma boa experiência para o usuário
 </div>
 
 
@@ -58,7 +58,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 4: Consistency and standards
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/consistency-and-standards.svg">
 >
 >
 </div>
@@ -67,7 +67,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 5: Error prevention
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/error-prevention.gif/">
 >
 >
 </div>
@@ -76,7 +76,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 6: Recognition rather than recall
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/recognition-rather-than-recall.gif">
 >
 >
 </div>
@@ -86,7 +86,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 7: Flexibility and efficiency of use
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/flexibility-and-efficiency-of-use.svg">
 >
 >
 </div>
@@ -96,7 +96,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 8: Aesthetic and minimalist design
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/aesthetic-and-minimalist-design.svg>
 >
 >
 </div>
@@ -105,7 +105,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 9: Help users recognize, diagnose, and recover from errors
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/help-users-recognize-diagnose-and-recover-from-errors.svg">
 >
 >
 </div>
@@ -114,7 +114,7 @@ Atividade relacionada ao tema 🔗["10 Usability Heuristics for User Interface D
 
 ## 10: Help and documentation
 
-> <img heigh="400px" width="400px" src ="">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/help-and-documentation.svg">
 >
 >
 </div>
