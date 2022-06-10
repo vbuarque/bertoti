@@ -26,7 +26,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 ### As informações e os componentes da interface do usuário devem ser apresentáveis ​​aos usuários de maneira que eles possam perceber.
 
->
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-1.svg">
 >
 >
 </div>
@@ -39,7 +39,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 ### Os componentes da interface do usuário e a navegação devem ser operáveis.
 
->
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-2.svg">
 >
 >
 
@@ -53,7 +53,7 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 ### As informações e a operação da interface do usuário devem ser compreensíveis.
 
->
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-3.svg">
 >
 >
 
@@ -67,8 +67,8 @@ Atividade relacionada ao tema 🔗["WCAG - Web Content Accessibility Guidelines"
 
 ### O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
 
->
->
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-4.svg">
+> <img heigh="400px" width="400px" src ="https://github.com/vbuarque/bertoti/blob/main/IHC/images/wcag-4_2.svg">
 >
 
 </div>
